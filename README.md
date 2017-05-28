@@ -1,4 +1,4 @@
-# java_console_log4j
-Eclipse 建立 Log4j 2 的 Hello World 项目（使用 properties 文件）
+# java_console_file_log4j
+Log4j 2 同时输出日志到控制台和文件
 
-对应博客文章地址：http://blog.csdn.net/techfield/article/details/72785379
+对应博客文章地址：http://blog.csdn.net/techfield/article/details/72792521
