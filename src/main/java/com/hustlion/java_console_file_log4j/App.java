@@ -1,4 +1,4 @@
-package com.hustlion.java_console_log4j;
+package com.hustlion.java_console_file_log4j;
 
 //引入 log4j 类
 import org.apache.logging.log4j.Logger;
